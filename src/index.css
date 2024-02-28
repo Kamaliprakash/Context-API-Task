@@ -1,13 +1,15 @@
 body{
-    background-color: rgb(149, 99, 151) !important;
+    background-color: rgb(226, 146, 112) !important;
     
 }
 #container{
     
-    display: flex;
-   flex-wrap:reverse;
-    gap: 20px;
-height: 50%;
+    padding:7px;
+    margin-left: 38%;
+    display:grid;
+    gap: 50px;
+    border-radius: 3px solid black;
+
    
 }
 #image{
